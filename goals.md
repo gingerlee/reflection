@@ -27,12 +27,24 @@ Today's Todo list:
 * Create/collect vocab and terms list and resources
 * Draft my first Medium article
 * Readme list out strengths/weaknesses
-* Email recruiter about Simple internships
-* Email Contact about Norway Internship
-* Email contact about shadowing 
+* Email recruiter about internship
+* Email about Norway Internship
+* Email about shadowing dev team in Portland
 * list of companies to look at for jobs/internships
 * update Host Gator to host more sites
 * Start planning Maxkr's site - WP React
 * Start planning Hana's site - WP React
-* work on coverletter template
+* work on cover letter template
 * work on core value list - use for strengths/weaknesses
+* free code camp challenge
+
+
+## Reflection Notes
+- Take care of your shit - name of the game
+- self confidence
+- respectfully persistant
+- silly
+- fearlessness, free thinking, creativity, understanding, accountability,
+
+
+## This Is 
