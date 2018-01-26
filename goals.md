@@ -1,10 +1,11 @@
 # Reflection & Goals
 
-Today I will work on reflecting my strengths and weaknesses as a programmer, and set goals and tactics to help me achieve my coding dreams.
+Today I will work on reflecting my strengths and weaknesses as a programmer, and set goals and tactics to help me achieve my coding aspirations, practice some code challenges, read and gather helpful resources, and document it along the way.
 
 Online Resources for today:
 
 * I read this article for inspiration: [Routine Success](http://gedd.ski/post/routines/)
+> This is Your Year 💪
 * [Code Newbie 2018 challenges](http://2018.codenewbie.org/ - ). I signed up for: **_Get A Job |  9 weeks, 9 missions_** This challenge starts January 26th, 2018 - great timing!
 * I read [this](http://wuhaus.com/2018/01/01/intentions-goals-for-2018/) article on intentions and goals for 2018 by an inspring Portland girl I follow on the social medias.
 * I read [this](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425) article on Medium.com about Vue.js and now I really want to learn that language.
@@ -13,41 +14,36 @@ Online Resources for today:
 
 * I looked at a few of the projects (like [this](https://remixtoplankton.glitch.me/) one) on [Glitch](https://glitch.com/) - an awesome site that inspires me to code.
 * p5.js - I watched [this](http://hello.p5js.org/) intro video (again) and really want to build something in p5
-* I signed up for a [Hacker Rank](https://www.hackerrank.com/dashboard) account as per the Epicodus prompt suggested and toured the site and took a code challente. Thank you for the tip!
-* http://highscalability.com/
+* I signed up for a [Hacker Rank](https://www.hackerrank.com/dashboard) account as per the Epicodus prompt suggested and toured the site and started a 10 day javaScript challenge. Thank you for the tip!
+* I signed up for a ladies happy hour for design and tech minded gals.
+* I watched the youTube [link](https://www.youtube.com/watch?v=8aGhZQkoFbQ) "What is an event loop" and it was great.
+* I read [this](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247) article on React
 
 Books
 * I ordered these on Amazon:
  * [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1516988232&sr=1-3&keywords=programming)
  * [Learning JavaScript: JavaScript Essentials for Modern Application Development](https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912/ref=sr_1_15?ie=UTF8&qid=1516988470&sr=8-15&keywords=javascript)
-* I went to Powells and bought this: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1516988534&sr=1-1&keywords=cracking+the+coding+interview)
+* I went to Powell's and bought this: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1516988534&sr=1-1&keywords=cracking+the+coding+interview)
 
 
 
-Today's Todo list:
+Today's list of things to work on:
+* Update linkedIn
 * Clean up Github: Add readmes, etc.
 * Whiteboard a code challenge
 * Create/collect vocab and terms list and resources
-* Draft my first Medium article
 * Readme list out strengths/weaknesses
 * Email recruiter about internship
 * Email about Norway Internship
 * Email about shadowing dev team in Portland
 * list of companies to look at for jobs/internships
-* update Host Gator to host more sites
+* update HostGator to host more sites
 * Start planning Maxkr's site - WP React
 * Start planning Hana's site - WP React
-* work on cover letter template
+* Work on cover letter template
 * work on core value list - use for strengths/weaknesses
-* free code camp challenge
+* Free Code Camp challenge
 
-
-## Reflection Notes
-- Take care of your shit - name of the game
-- self confidence
-- respectfully persistant
-- silly
-- fearlessness, free thinking, creativity, understanding, accountability,
 
 
 ## This Is My Year
@@ -69,6 +65,6 @@ The second lag measure - or big goal of the year - **is to build something meani
 The first quarter will be easy with our school capstone project that will line up nicely with a Q1 goal. This project is a React project of our choosing. I am excited to flex my newly gained React skills to build something meaningful. For the other 3 quarters, I have plans for a few different websites (for my sister's, and bother-in-law, as well as a few web apps and interactive projects on my list). Lead measures to get here are planning out the user stories and wireframes for each site/app. From there it is getting in the habit of using my one hour a day of coding to spend that time wisely with an end goal in mind.
 
 #### Goal #3 - Run a 20 mile trail run and don't die
-On April 8th I am signed up to run a 20 mile trail run in Sisters for the second time. Last time around I didn't put in enough training and really felt like it was a hard slow race. This year I have a running schedule, my lead measures, to run twice a week at least 5 miles and a long run on the weekend. This is an adapted marathon training schedule from REI that I'm adjusting to my schedule and needs. I think that I can run faster than I did last time, but also not feel like death at the end. Also, I'm training my dog to run it with me - she's my main motivation these days!
+Not programming or career related, but I love being active and healthy! On April 8th I am signed up to run a 20 mile trail run in Sisters for the second time. Last time around I didn't put in enough training and really felt like it was a hard slow race. This year I have a running schedule, my lead measures, to run twice a week at least 5 miles and a long run on the weekend. This is an adapted marathon training schedule from REI that I'm adjusting to my schedule and needs. I think that I can run faster than I did last time, but also not feel like death at the end. Also, I'm training my dog to run it with me - she's my main motivation these days!
 
 Of course I want to stay in shape through the year, and run a really fast Silver Falls half marathon in November again. This is the run that got me into trail running. I've done it now 5 years in a row and it is so much fun and beautiful (you run behind 3 waterfalls). Keeping healthy and in shape is one of the best ways for me to feel good and manage my stress. I love exercise so much!
