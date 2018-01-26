@@ -1,6 +1,6 @@
 # Reflection & Goals
 
-Today I will work on reflecting my strengths and weaknesses as a programmer, and set goals and tactics to help me achieve my coding aspirations, practice some code challenges, read and gather helpful resources, and document it along the way.
+Today I will work on reflecting my strengths and weaknesses as a programmer, and set goals and tactics to help me achieve my coding aspirations, practice some code challenges, read and gather helpful resources, and document it along the way. Cheers!
 
 Online Resources for today:
 
