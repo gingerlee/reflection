@@ -48,4 +48,24 @@ Today's Todo list:
 
 
 ## This Is My Year
-It's a good time of year to set goals and reflect on what we did last year, what goals worked, what goals failed, and from there use lessons learned to find patterns and good and bad to help direct this year into setting and achieving new goals. This year, my one big career goal - my guiding star - is **I want to get a job as a programmer**. That goal is a big one, seeing as I am still in coding school and feel like I have so much more to learn. But I'm confident it's achievable by setting lead measures, actions done consistently that lead to an outcome I want, and building those lead measures into a routine. I 
+It's a good time of year to set goals and reflect on what we did last year, what goals worked, goals that failed, and from there use lessons learned to find patterns, good and bad, to help direct this year into setting and achieving new goals.
+
+##### Goal #1 - Get a Job as a Programmer
+
+This year, my one big career goal - my guiding star - is **I want to get a job as a programmer**. That goal is a big one, seeing as I am still in coding school and feel like I have so much more to learn. But I'm confident it's achievable by setting *lead measures*, actions done consistently that lead to an outcome I want, and building those lead measures into a routine.
+
+**The first lead measure is code everyday for an hour**. This is an easy task in code school, where we stand at a computer and code for 8 hours a day, and have homework and lots of projects to work on over the weekend to achieve this goal. I want to continue this lead measure of coding everyday for an hour through this year.
+
+There are awesome resources out there like JavaScript30 with Wes Bos, with 30 coding challenges in vanilla javascript that will help really set the foundations of JavaScript. Another great resource is hackerrank, which I just discovered today in the assignment. It is a site that has coding challenges, and online lesson plans available and at my fingertips. I also want to do FreeCodeCamp challenges, as well as other tutorials for things that really interest me, like p5.js(!!) and interactive web development.
+
+I  think that coding for an hour a day is something that will be easy to do, but making the time once I am out of school and getting in the routine is something I will really have to have self discipline about.
+
+##### Goal #2 - Build something meaningful once a quarter
+The second lag measure - or big goal of the year - **is to build something meaningful at least once a quarter**. This is definitely related to the first goal, and will help me get there, but it is separate. It's using the skills I've learned in code school an on my own to really dive into code, and produce something meaningful. I have a few different ideas of things I want to code and this year and I think that breaking up the year into quarters is a good way to set myself up for success.
+
+The first quarter will be easy with our school capstone project that will line up nicely with a Q1 goal. This project is a React project of our choosing. I am excited to flex my newly gained React skills to build something meaningful. For the other 3 quarters, I have plans for a few different websites (for my sister's, and bother-in-law, as well as a few web apps and interactive projects on my list). Lead measures to get here are planning out the user stories and wireframes for each site/app. From there it is getting in the habit of using my one hour a day of coding to spend that time wisely with an end goal in mind.
+
+#### Goal #3 - Run a 20 mile trail run and don't die
+On April 8th I am signed up to run a 20 mile trail run in Sisters for the second time. Last time around I didn't put in enough training and really felt like it was a hard slow race. This year I have a running schedule, my lead measures, to run twice a week at least 5 miles and a long run on the weekend. This is an adapted marathon training schedule from REI that I'm adjusting to my schedule and needs. I think that I can run faster than I did last time, but also not feel like death at the end. Also, I'm training my dog to run it with me - she's my main motivation these days! 
+
+Of course I want to stay in shape through the year, and run a really fast Silver Falls half marathon in November again. This is the run that got me into trail running. I've done it now 5 years in a row and it is so much fun and beautiful (you run behind 3 waterfalls). Keeping healthy and in shape is one of the best ways for me to feel good and manage my stress. I love exercise so much!
