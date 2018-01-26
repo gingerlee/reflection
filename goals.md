@@ -29,7 +29,7 @@ Today's Todo list:
 * Readme list out strengths/weaknesses
 * Email recruiter about Simple internships
 * Email Contact about Norway Internship
-* Email contact about Instrument Internship
+* Email contact about shadowing 
 * list of companies to look at for jobs/internships
 * update Host Gator to host more sites
 * Start planning Maxkr's site - WP React
