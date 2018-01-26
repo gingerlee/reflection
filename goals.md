@@ -28,6 +28,7 @@ Books
 
 
 Today's list of things to work on:
+* List out and reflect core values - see [here](./img/core-values.jpg)
 * Update linkedIn
 * Clean up Github: Add readmes, etc.
 * Whiteboard a code challenge
