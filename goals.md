@@ -47,4 +47,5 @@ Today's Todo list:
 - fearlessness, free thinking, creativity, understanding, accountability,
 
 
-## This Is 
+## This Is My Year
+It's a good time of year to set goals and reflect on what we did last year, what goals worked, what goals failed, and from there use lessons learned to find patterns and good and bad to help direct this year into setting and achieving new goals. This year, my one big career goal - my guiding star - is **I want to get a job as a programmer**. That goal is a big one, seeing as I am still in coding school and feel like I have so much more to learn. But I'm confident it's achievable by setting lead measures, actions done consistently that lead to an outcome I want, and building those lead measures into a routine. I 
