@@ -29,7 +29,8 @@ Todays resources and adventures:
 
 
 Today's list of things to work on:
-* List out and reflect core values - see below on things I value: ![core values](./img/core-values.jpg)
+* List out and reflect core values - see below on things I value:
+![core values](./img/core-values.jpg)
 
 * Update linkedIn
 * Clean up Github: Add readmes, etc.
