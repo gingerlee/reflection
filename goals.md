@@ -35,8 +35,10 @@ Todays resources and adventures:
 
 
 
+||
+|:--:|
+| Reflection Notes and Goals Below 🔮|
 
-|:=== Reflection Notes and Goals Below ===:|
 
 ## This Is My Year
 It's a good time of year to set goals and reflect on what we did last year, what goals worked, goals that failed, and from there use lessons learned to find patterns, good and bad, to help direct this year into setting and achieving new goals.
