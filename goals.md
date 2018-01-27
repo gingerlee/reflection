@@ -73,4 +73,5 @@ Not programming or career related, but I love being active and healthy! On April
 Of course I want to stay in shape through the year, and run a really fast Silver Falls half marathon in November again. This is the run that got me into trail running. I've done it now 5 years in a row and it is so much fun and beautiful (you run behind 3 waterfalls). Keeping healthy and in shape is one of the best ways for me to feel good and manage my stress. I love exercise so much!
 
 And since it's Friday and I love my baby Ina, here's a picture of her on a hike in the gorge surrounded by wild sunflowers ✨
-🌻💛 ![Ina Bean](./img/bean.jpg)
+🌻💛
+![Ina Bean](./img/bean.jpg)
