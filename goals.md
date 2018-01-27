@@ -17,7 +17,7 @@ Todays resources and adventures:
 
 * I looked at a few of the projects (like [this](https://remixtoplankton.glitch.me/) one) on [Glitch](https://glitch.com/) - an awesome site that inspires me to code.
 * p5.js - I watched [this](http://hello.p5js.org/) intro video (again) and really want to build something in p5
-* I signed up for a [Hacker Rank](https://www.hackerrank.com/dashboard) account as per the Epicodus prompt suggested and toured the site and started a 10 day javaScript challenge. Thank you for the tip!
+* I signed up for a [Hacker Rank](https://www.hackerrank.com/dashboard) account as per the Epicodus prompt suggested and toured the site and started a 10 day javaScript challenge.
 * I signed up for a ladies happy hour for design and tech minded gals.
 * I watched the youTube [link](https://www.youtube.com/watch?v=8aGhZQkoFbQ) "What is an event loop" and it was great.
 * I read [this](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247) article on React
@@ -25,30 +25,18 @@ Todays resources and adventures:
  * [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1516988232&sr=1-3&keywords=programming)
  * [Learning JavaScript: JavaScript Essentials for Modern Application Development](https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912/ref=sr_1_15?ie=UTF8&qid=1516988470&sr=8-15&keywords=javascript)
 * I went to Powell's and bought this: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1516988534&sr=1-1&keywords=cracking+the+coding+interview)
-
-
-
-Today's list of things to work on:
-* List out and reflect core values - see below on things I value:
+* I reflected on my core values - see below on things I value:
 ![core values](./img/core-values.jpg)
 
-* Update linkedIn
-* Clean up Github: Add readmes, etc.
-* Whiteboard a code challenge
-* Create/collect vocab and terms list and resources
-* Readme list out strengths/weaknesses
-* Email recruiter about internship
-* Email about Norway Internship
-* Email about shadowing dev team in Portland
-* list of companies to look at for jobs/internships
-* update HostGator to host more sites
-* Start planning Maxkr's site - WP React
-* Start planning Hana's site - WP React
-* Work on cover letter template
-* work on core value list - use for strengths/weaknesses
-* Free Code Camp challenge
+* I Updated linkedIn with a link to my launched portfolio site: [gingerleek.com](gingerleek.com) yea!
+* I Emailed a recruiter in town about a summer internship
+* I Emailed a contact in Norway about a Norway Internship - DREAM BIG, GG ✨
+* Emailed a friend about shadowing her dev team in Portland
 
 
+
+
+|:=== Reflection Notes and Goals Below ===:|
 
 ## This Is My Year
 It's a good time of year to set goals and reflect on what we did last year, what goals worked, goals that failed, and from there use lessons learned to find patterns, good and bad, to help direct this year into setting and achieving new goals.
