@@ -2,7 +2,10 @@
 
 Today I will work on reflecting my strengths and weaknesses as a programmer, and set goals and tactics to help me achieve my coding aspirations, practice some code challenges, read and gather helpful resources, and document it along the way. Cheers!
 
-Online Resources for today:
+Todays resources and adventures:
+
+* I started with a simple whiteboard todo list (and a la croix to start the day off right):
+![todo](./img/todo.jpg)
 
 * I read this article for inspiration: [Routine Success](http://gedd.ski/post/routines/)
 > This is Your Year 💪
@@ -18,8 +21,6 @@ Online Resources for today:
 * I signed up for a ladies happy hour for design and tech minded gals.
 * I watched the youTube [link](https://www.youtube.com/watch?v=8aGhZQkoFbQ) "What is an event loop" and it was great.
 * I read [this](https://stories.jotform.com/7-reasons-why-you-should-use-react-ad420c634247) article on React
-
-Books
 * I ordered these on Amazon:
  * [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1516988232&sr=1-3&keywords=programming)
  * [Learning JavaScript: JavaScript Essentials for Modern Application Development](https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912/ref=sr_1_15?ie=UTF8&qid=1516988470&sr=8-15&keywords=javascript)
@@ -28,7 +29,7 @@ Books
 
 
 Today's list of things to work on:
-* List out and reflect core values - see ![core values](gingerlee.github.com/reflection/img/core-values.jpg)
+* List out and reflect core values - see below on things I value: ![core values](./img/core-values.jpg)
 
 * Update linkedIn
 * Clean up Github: Add readmes, etc.
@@ -70,3 +71,6 @@ The first quarter will be easy with our school capstone project that will line u
 Not programming or career related, but I love being active and healthy! On April 8th I am signed up to run a 20 mile trail run in Sisters for the second time. Last time around I didn't put in enough training and really felt like it was a hard slow race. This year I have a running schedule, my lead measures, to run twice a week at least 5 miles and a long run on the weekend. This is an adapted marathon training schedule from REI that I'm adjusting to my schedule and needs. I think that I can run faster than I did last time, but also not feel like death at the end. Also, I'm training my dog to run it with me - she's my main motivation these days!
 
 Of course I want to stay in shape through the year, and run a really fast Silver Falls half marathon in November again. This is the run that got me into trail running. I've done it now 5 years in a row and it is so much fun and beautiful (you run behind 3 waterfalls). Keeping healthy and in shape is one of the best ways for me to feel good and manage my stress. I love exercise so much!
+
+And since it's Friday and I love my baby Ina, here's a picture of her on a hike in the gorge surrounded by wild sunflowers ✨
+🌻💛 ![Ina Bean](./img/bean.jpg)
